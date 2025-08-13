@@ -7,15 +7,15 @@ This can be useful to keep your directories clean and tidy by automatically sort
 
 ## 📌 Features:
 
-  1.The script should take a directory path as an argument and organize the files within that directory.
+    1.The script should take a directory path as an argument and organize the files within that directory.
 
-  2.It should create subdirectories based on the file extensions (e.g., "txt" for text files, "jpg" for image files).
+    2.It should create subdirectories based on the file extensions (e.g., "txt" for text files, "jpg" for image files).
 
-  3.Files with unknown or no file extensions should be placed in a "misc" subdirectory.
+    3.Files with unknown or no file extensions should be placed in a "misc" subdirectory.
 
-  4.If a subdirectory for a particular file type already exists, the script should move the files into that existing directory.
+    4.If a subdirectory for a particular file type already exists, the script should move the files into that existing directory.
 
-  5.The script should handle edge cases, such as files with no extensions or hidden files (those starting with a dot).
+    5.The script should handle edge cases, such as files with no extensions or hidden files (those starting with a dot).
 
   ## ⚙️ Configuration File :
   
