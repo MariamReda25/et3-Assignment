@@ -27,9 +27,9 @@ This can be useful to keep your directories clean and tidy by automatically sort
 
 ## ⌨️ Run Script:
 
-chmod +x File_Organizer.sh
+``` chmod +x File_Organizer.sh ```
 
-./File_Organizer.sh {{directory path}}
+``` ./File_Organizer.sh {{directory path}}```
 
 
 
